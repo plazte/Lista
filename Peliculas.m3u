@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhAR8zI.png" group-title="Cuenta", 1.798 Peliculas 
+https://shdplazte.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/DAlrJxPhWCs
+
+
 #EXTINF:-1,Spider-Man: No Way Home
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Spider-Man%20No%20Way%20Home.mp4
 #EXTINF:-1,Selena (1997)

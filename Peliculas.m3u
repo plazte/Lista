@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgflip.com/24n1vf.png" group-title="Cuenta", 1.798 Peliculas 
+#EXTINF:-1 tvg-logo="https://i.imgflip.com/24n1vf.png" group-title="Cuenta", 1.799 Peliculas 
 https://shdplazte.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/DAlrJxPhWCs
 
 
